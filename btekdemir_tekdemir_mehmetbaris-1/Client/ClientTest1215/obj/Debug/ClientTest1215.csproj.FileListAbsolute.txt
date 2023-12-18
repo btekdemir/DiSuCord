@@ -1,0 +1,18 @@
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\ClientTest1215\ClientTest1215\bin\Debug\ClientTest1215.exe.config
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\ClientTest1215\ClientTest1215\bin\Debug\ClientTest1215.exe
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\ClientTest1215\ClientTest1215\bin\Debug\ClientTest1215.pdb
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\ClientTest1215\ClientTest1215\obj\Debug\ClientTest1215.csprojResolveAssemblyReference.cache
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\ClientTest1215\ClientTest1215\obj\Debug\ClientTest1215.Form1.resources
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\ClientTest1215\ClientTest1215\obj\Debug\ClientTest1215.Properties.Resources.resources
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\ClientTest1215\ClientTest1215\obj\Debug\ClientTest1215.csproj.GenerateResource.Cache
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\ClientTest1215\ClientTest1215\obj\Debug\ClientTest1215.exe
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\ClientTest1215\ClientTest1215\obj\Debug\ClientTest1215.pdb
+C:\Users\shado\OneDrive\Masaüstü\ClientTest1215\ClientTest1215\bin\Debug\ClientTest1215.exe.config
+C:\Users\shado\OneDrive\Masaüstü\ClientTest1215\ClientTest1215\obj\Debug\ClientTest1215.exe
+C:\Users\shado\OneDrive\Masaüstü\ClientTest1215\ClientTest1215\obj\Debug\ClientTest1215.pdb
+C:\Users\shado\OneDrive\Masaüstü\ClientTest1215\ClientTest1215\bin\Debug\ClientTest1215.exe
+C:\Users\shado\OneDrive\Masaüstü\ClientTest1215\ClientTest1215\bin\Debug\ClientTest1215.pdb
+C:\Users\shado\OneDrive\Masaüstü\ClientTest1215\ClientTest1215\obj\Debug\ClientTest1215.csprojResolveAssemblyReference.cache
+C:\Users\shado\OneDrive\Masaüstü\ClientTest1215\ClientTest1215\obj\Debug\ClientTest1215.Form1.resources
+C:\Users\shado\OneDrive\Masaüstü\ClientTest1215\ClientTest1215\obj\Debug\ClientTest1215.Properties.Resources.resources
+C:\Users\shado\OneDrive\Masaüstü\ClientTest1215\ClientTest1215\obj\Debug\ClientTest1215.csproj.GenerateResource.Cache

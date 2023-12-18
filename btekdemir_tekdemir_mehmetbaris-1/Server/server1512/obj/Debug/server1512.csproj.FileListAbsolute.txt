@@ -1,0 +1,18 @@
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\server1512\server1512\bin\Debug\server1512.exe.config
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\server1512\server1512\bin\Debug\server1512.exe
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\server1512\server1512\bin\Debug\server1512.pdb
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\server1512\server1512\obj\Debug\server1512.csprojResolveAssemblyReference.cache
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\server1512\server1512\obj\Debug\server1512.Form1.resources
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\server1512\server1512\obj\Debug\server1512.Properties.Resources.resources
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\server1512\server1512\obj\Debug\server1512.csproj.GenerateResource.Cache
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\server1512\server1512\obj\Debug\server1512.exe
+c:\users\shado\onedrive\belgeler\visual studio 2015\Projects\server1512\server1512\obj\Debug\server1512.pdb
+C:\Users\shado\OneDrive\Masaüstü\server1512\server1512\bin\Debug\server1512.exe.config
+C:\Users\shado\OneDrive\Masaüstü\server1512\server1512\bin\Debug\server1512.exe
+C:\Users\shado\OneDrive\Masaüstü\server1512\server1512\bin\Debug\server1512.pdb
+C:\Users\shado\OneDrive\Masaüstü\server1512\server1512\obj\Debug\server1512.csprojResolveAssemblyReference.cache
+C:\Users\shado\OneDrive\Masaüstü\server1512\server1512\obj\Debug\server1512.Form1.resources
+C:\Users\shado\OneDrive\Masaüstü\server1512\server1512\obj\Debug\server1512.Properties.Resources.resources
+C:\Users\shado\OneDrive\Masaüstü\server1512\server1512\obj\Debug\server1512.csproj.GenerateResource.Cache
+C:\Users\shado\OneDrive\Masaüstü\server1512\server1512\obj\Debug\server1512.exe
+C:\Users\shado\OneDrive\Masaüstü\server1512\server1512\obj\Debug\server1512.pdb
